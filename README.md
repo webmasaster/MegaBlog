@@ -8,7 +8,6 @@ MegaBlog is a modern, responsive blogging platform built with React and Vite. It
 - 🔐 User authentication (sign up & login)
 - 📱 Responsive design for all screen sizes
 - ⚡ Fast performance with Vite
-- 🌙 Dark mode ready (optional)
 
 ## 🛠 Tech Stack
 
